@@ -4,7 +4,7 @@ import './Color.css'
 function Color() {
   return (
     <div>
-      
+      Color
     </div>
   )
 }
